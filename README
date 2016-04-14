@@ -1,0 +1,13 @@
+Note to PD IT:
+
+Seperate directory for skins so we can manage changes to them with git.
+
+Note to Github users:
+
+This is a repository for PD's mediawiki skins, primarily used for the public wiki (Plot & Crew wiki skins will appear at some point).
+
+If you are able to fix a bug in the skins, please take a fork of this, and submit your changes as a merge request.
+
+Primary issues remaining:
+
+* These skins do not work even a little bit with the new Mediawiki skins engine, which breaks our ability to upgrade mediawiki and make search suck less. Assistance appreciated.
